@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ledattadel.github.io/reactnewbie1/static/css/main.ab15e29b.chunk.css",
+    "main.js": "/ledattadel.github.io/reactnewbie1/static/js/main.0c632982.chunk.js",
+    "main.js.map": "/ledattadel.github.io/reactnewbie1/static/js/main.0c632982.chunk.js.map",
+    "runtime-main.js": "/ledattadel.github.io/reactnewbie1/static/js/runtime-main.e8582db6.js",
+    "runtime-main.js.map": "/ledattadel.github.io/reactnewbie1/static/js/runtime-main.e8582db6.js.map",
+    "static/js/2.734ffe4b.chunk.js": "/ledattadel.github.io/reactnewbie1/static/js/2.734ffe4b.chunk.js",
+    "static/js/2.734ffe4b.chunk.js.map": "/ledattadel.github.io/reactnewbie1/static/js/2.734ffe4b.chunk.js.map",
+    "static/js/3.0e209da5.chunk.js": "/ledattadel.github.io/reactnewbie1/static/js/3.0e209da5.chunk.js",
+    "static/js/3.0e209da5.chunk.js.map": "/ledattadel.github.io/reactnewbie1/static/js/3.0e209da5.chunk.js.map",
+    "index.html": "/ledattadel.github.io/reactnewbie1/index.html",
+    "static/css/main.ab15e29b.chunk.css.map": "/ledattadel.github.io/reactnewbie1/static/css/main.ab15e29b.chunk.css.map",
+    "static/js/2.734ffe4b.chunk.js.LICENSE.txt": "/ledattadel.github.io/reactnewbie1/static/js/2.734ffe4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ledattadel.github.io/reactnewbie1/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/ledattadel.github.io/reactnewbie1/static/media/suhyeon-choi-HCDugQDdtfc-unsplash.7c84ab52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8582db6.js",
+    "static/js/2.734ffe4b.chunk.js",
+    "static/css/main.ab15e29b.chunk.css",
+    "static/js/main.0c632982.chunk.js"
+  ]
+}
